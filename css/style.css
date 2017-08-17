@@ -1,0 +1,21 @@
+
+body {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(247, 244, 241);
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.visually-hidden {
+    visibility: hidden;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: "PTSans";
+  color: rgb(247, 244, 241);
+  font-weight: bold;
+  line-height: 42px;
+
+}
